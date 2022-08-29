@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nayetwolf-PureCSS/static/css/main.c4de242c.css",
+    "main.js": "/Nayetwolf-PureCSS/static/js/main.3f0a0fd4.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Nayetwolf-PureCSS/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Nayetwolf-PureCSS/index.html",
+    "main.c4de242c.css.map": "/Nayetwolf-PureCSS/static/css/main.c4de242c.css.map",
+    "main.3f0a0fd4.js.map": "/Nayetwolf-PureCSS/static/js/main.3f0a0fd4.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Nayetwolf-PureCSS/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4de242c.css",
+    "static/js/main.3f0a0fd4.js"
+  ]
+}
